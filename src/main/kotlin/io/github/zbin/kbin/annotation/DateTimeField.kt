@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.annotation
+package io.github.zbin.kbin.annotation
 
 /**
  * Created by WispZhan on 6/15/2016.

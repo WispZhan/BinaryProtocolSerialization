@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.util
+package io.github.zbin.kbin.utils
 
 import java.lang.reflect.Field
 import java.util.*

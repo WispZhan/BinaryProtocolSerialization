@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.annotation
+package io.github.zbin.kbin.annotation
 
 /**
  * byte序列化工具，枚举类型注册注解

@@ -1,6 +1,6 @@
-package bin.tools.kbinconverter.element
+package io.github.zbin.kbin.element
 
-import bin.tools.kbinconverter.BinarySerialization
+import io.github.zbin.kbin.BinarySerialization
 import java.lang.reflect.Field
 import java.nio.ByteBuffer
 

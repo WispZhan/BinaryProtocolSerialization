@@ -1,6 +1,4 @@
-package bin.tools.kbinconverter.annotation
-
-import kotlin.reflect.KClass
+package io.github.zbin.kbin.annotation
 
 /**
  *  字节序列化工具

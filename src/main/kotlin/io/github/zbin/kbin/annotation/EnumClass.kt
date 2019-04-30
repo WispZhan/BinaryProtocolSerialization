@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.annotation
+package io.github.zbin.kbin.annotation
 
 import kotlin.reflect.KClass
 

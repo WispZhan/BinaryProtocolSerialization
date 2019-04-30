@@ -1,6 +1,6 @@
-package bin.tools.kbinconverter.element
+package io.github.zbin.kbin.element
 
-import bin.tools.kbinconverter.annotation.ByteField
+import io.github.zbin.kbin.annotation.ByteField
 import java.lang.reflect.Field
 import java.nio.ByteBuffer
 import java.nio.ByteOrder

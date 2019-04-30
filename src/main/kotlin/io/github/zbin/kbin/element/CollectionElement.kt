@@ -1,8 +1,8 @@
-package bin.tools.kbinconverter.element
+package io.github.zbin.kbin.element
 
-import bin.tools.kbinconverter.BinarySerialization
-import bin.tools.kbinconverter.annotation.CollectionField
-import bin.tools.kbinconverter.util.ReflectionUtils
+import io.github.zbin.kbin.BinarySerialization
+import io.github.zbin.kbin.annotation.CollectionField
+import io.github.zbin.kbin.utils.ReflectionUtils
 import java.lang.reflect.Array
 import java.lang.reflect.Field
 import java.lang.reflect.ParameterizedType

@@ -1,9 +1,15 @@
-package bin.tools.kbinconverter
+package io.github.zbin.kbin
 
-import bin.tools.kbinconverter.annotation.ByteField
-import bin.tools.kbinconverter.annotation.FieldType
-import bin.tools.kbinconverter.element.*
-import bin.tools.kbinconverter.util.ReflectionUtils
+import io.github.zbin.kbin.annotation.ByteField
+import io.github.zbin.kbin.annotation.FieldType
+import bin.tools.kbin.element.*
+import io.github.zbin.kbin.element.CollectionElement
+import io.github.zbin.kbin.element.ComplexElement
+import io.github.zbin.kbin.element.DateTimeElement
+import io.github.zbin.kbin.element.EnumElement
+import io.github.zbin.kbin.element.IElement
+import io.github.zbin.kbin.element.ValueElement
+import io.github.zbin.kbin.utils.ReflectionUtils
 import java.util.*
 
 /**

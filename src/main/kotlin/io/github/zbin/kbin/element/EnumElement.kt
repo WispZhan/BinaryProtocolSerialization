@@ -1,8 +1,8 @@
-package bin.tools.kbinconverter.element
+package io.github.zbin.kbin.element
 
-import bin.tools.kbinconverter.EnumHelper
-import bin.tools.kbinconverter.annotation.EnumClass
-import bin.tools.kbinconverter.annotation.EnumField
+import io.github.zbin.kbin.EnumHelper
+import io.github.zbin.kbin.annotation.EnumClass
+import io.github.zbin.kbin.annotation.EnumField
 import java.lang.reflect.Field
 import java.nio.ByteBuffer
 import java.nio.ByteOrder

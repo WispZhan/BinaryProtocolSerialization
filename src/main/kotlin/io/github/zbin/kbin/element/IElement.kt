@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.element
+package io.github.zbin.kbin.element
 
 /**
  * Created by WispZ on 7/3/2016.

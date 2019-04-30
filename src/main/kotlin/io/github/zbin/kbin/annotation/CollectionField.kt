@@ -1,4 +1,4 @@
-package bin.tools.kbinconverter.annotation
+package io.github.zbin.kbin.annotation
 
 /**
  *集合类型序列化注解
